@@ -18,6 +18,7 @@ dit is DE WEBSITE van LUCALUCALUCALUCALUCA
 <input type="email">
 <input type="submit">
 <input type="email" placeholder="your email">
+<img src="/kaas.jfif">
 </body>
 
 
