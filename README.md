@@ -6,7 +6,9 @@ dit is DE WEBSITE van LUCALUCALUCALUCALUCA
 <style>
   body {
     text-align: center;
-    background: black;
+    background: url("kaas.jfif");
+    background-size: cover;
+    background-position: center;
     color: white;
     font-family: helvetica;
     
